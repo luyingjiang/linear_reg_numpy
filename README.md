@@ -1,1 +1,1 @@
-# linear_reg_numpy
+# Linear Regression with Numpy
