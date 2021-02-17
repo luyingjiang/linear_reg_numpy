@@ -1,8 +1,8 @@
 # Linear Regression with Numpy
 
-Linear Regression.pdf: Detailed explanation of the project.
+[Linear Regression.pdf](https://github.com/luyingjiang/linear_reg_numpy/blob/main/Linear%20Regression.pdf): Detailed explanation of the project.
 
-regression.py: Python file where to write the code.
+[regression.py](https://github.com/luyingjiang/linear_reg_numpy/blob/main/regression.py): Python file where to write the code.
 
 util.py: Python file with several helper functions, some of which
          you will need to use in your code.
