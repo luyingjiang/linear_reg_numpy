@@ -6,11 +6,9 @@ regression.py: Python file where to write the code.
 util.py: Python file with several helper functions, some of which
          you will need to use in your code.
 
-output.py: This file is described in detail in the "Testing your code"
-           section of the assigment.
+output.py: Python file for code testing.
 
-test_regression.py: Python file with the automated tests for this
-                    assignment.
+test_regression.py: Python file with the automated tests for this project.
 
 data:
   city: data gathered from Chicago's Data Portal on Calls to 311 and Crime.
