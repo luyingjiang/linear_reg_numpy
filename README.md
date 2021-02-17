@@ -1,5 +1,6 @@
 # Linear Regression with Numpy
 
+Linear Regression.pdf: Detailed explanation of the project.
 
 regression.py: Python file where to write the code.
 
@@ -20,3 +21,5 @@ data:
       data.csv: CSV file with data on stock performance and DJIA.
 
 README.md: this file
+
+Credit: University of Chicago Computer Science Department
